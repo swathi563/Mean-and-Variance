@@ -48,10 +48,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
-
-developed by: Swathi.S
-register no:212225040449
-```
 ```
 import numpy as np
 import math
@@ -85,10 +81,13 @@ plt.plot(x,y1,'r')
 plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
-plt.show()
 ```
+developed by:Swathi S
+register no:212225040449
+
 # Output : 
-<img width="835" height="637" alt="WhatsApp Image 2026-05-28 at 8 14 23 PM" src="https://github.com/user-attachments/assets/b1b8c860-802b-483f-8eee-3f17a1b8bc28" />
+
+<img width="835" height="637" alt="WhatsApp Image 2026-05-28 at 8 14 23 PM" src="https://github.com/user-attachments/assets/d65359db-75a2-4bbb-b0a3-884c19e63301" />
 
 
 # Results :
